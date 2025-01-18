@@ -2,4 +2,5 @@ Unit test with Python
 
 To run :
 
-pytest
+Unit test: pytest
+Packstat: packstats
