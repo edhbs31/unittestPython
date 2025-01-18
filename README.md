@@ -3,4 +3,4 @@ Unit test with Python
 To run :
 
 Unit test: pytest
-Packstat: packstats
+Packstat: packstats amd64
